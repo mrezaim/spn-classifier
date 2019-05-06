@@ -1,2 +1,4 @@
 .vscode/*
 .ipynb_checkpoints/*
+src/train.csv
+src/test.csv
